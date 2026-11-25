@@ -51,7 +51,6 @@ The default entry script runs the Houston cross-temporal task. Default arguments
 - `source_name=Houston13`
 - `target_name=Houston18`
 - `dataset_dir=./Houston/`
--  **Natural willow** dataset can be obtained from https://github.com/YuxiangZhang-BIT/Data-CSHSI
 
 Please organize the dataset as follows (for the default configuration):
 
